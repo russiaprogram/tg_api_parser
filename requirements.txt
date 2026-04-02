@@ -1,0 +1,4 @@
+Pyrogram
+python-dotenv
+tgcrypto 
+tqdm
